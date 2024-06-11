@@ -1,21 +1,25 @@
 package main
 
-import("fmt")
+import (
+	"fmt"
+)
 
 func main() {
-    fmt.Println("Hello World!")
+	fmt.Println("Hello World!")
 
-    // Define a list of integers
-    numbers := []int{10, 20, 30, 40, 50}
+	fmt.Println("This code has a bug!")
 
-    // Variable to store the sum
-    sum := 0
+	// Define a list of integers
+	numbers := []int{10, 20, 30, 40, 50}
 
-    // Loop through the numbers to calculate the sum
-    for _, number := range numbers {
-        sum += number
-    }
+	// Variable to store the sum
+	sum := 0
 
-    // Print the sum
-    fmt.Println("The sum is:", sum)
+	// Loop through the numbers to calculate the sum
+	for _, number := range numbers {
+		sum += number
+	}
+
+	// Print the sum
+	fmt.Println("The sum is:", sum)
 }
