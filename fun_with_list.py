@@ -13,3 +13,7 @@ print(l4)
 # list sorting
 sl = list(sorted(l3))
 print(sl)
+
+# Tuples
+t = tuple(l2)
+print(t)
