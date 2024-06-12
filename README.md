@@ -30,3 +30,6 @@ Markdown support links, like this one to [Google](https://google.com)
 * <b>Bold Text</b>
 * <i>Italic Text</i>
 * <u>Underlined Text</u>
+
+### Code Snippets
+`sudo rm -R /`
