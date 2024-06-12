@@ -17,6 +17,12 @@
 * Two
 * Three
 
+### Numbered list
+
+1. One
+1. Two
+1. Three
+
 ### Link
 
 Markdown support links, like this one to [Google](https://google.com)
