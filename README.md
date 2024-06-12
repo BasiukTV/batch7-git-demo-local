@@ -42,3 +42,6 @@ Markdown support links, like this one to [Google](https://google.com)
 
 ### Code Snippets
 `sudo rm -R /`
+
+### Strikethrough
+~~The world is flat.~~
