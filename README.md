@@ -45,3 +45,8 @@ Markdown support links, like this one to [Google](https://google.com)
 
 ### Strikethrough
 ~~The world is flat.~~
+
+### Footnotes
+Here's a sentence with a footnote. [^1]
+
+[^1]: This is the footnote.
