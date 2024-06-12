@@ -8,6 +8,9 @@
 
 ## Features
 
+### Horizontal line
+---
+
 ### Bulletpoint list
 
 * One
