@@ -14,6 +14,10 @@ print(l4)
 sl = list(sorted(l3))
 print(sl)
 
+# list reversal
+rl1 = list(reversed(l1))
+rl2 = ls[::-1]
+
 # Tuples
 t = tuple(l2)
 print(t)
